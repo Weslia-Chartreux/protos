@@ -1,4 +1,4 @@
-module github.com/Weslia-Chartreux/protos_auth
+module github.com/Weslia-Chartreux/protos
 
 go 1.21.3
 
