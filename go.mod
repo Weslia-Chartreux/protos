@@ -1,4 +1,4 @@
-module weslia/Auth_god/protos
+module github.com/Weslia-Chartreux/protos
 
 go 1.21.3
 
